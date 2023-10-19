@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FathiAriaFirdaus
-- 👀 I’m interested in Coding & digital illustration
+- 👀 I’m interested in doing nothing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me fathiariafirdaus@gmail.com
 
