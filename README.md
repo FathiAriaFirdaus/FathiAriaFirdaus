@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FathiAriaFirdaus
 - 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me fathiariafirdaus@gmail.com
 
 <!---
